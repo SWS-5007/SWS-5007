@@ -68,23 +68,19 @@ Collaborative Team Building | Team Development | Process Improvement | Communica
 > GitHub Profile Status
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SWS-5007&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SWS-5007&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
-</p>
-
-<br />
-
-<p align="center">
   <a>
     <img height="120" width="140" src="https://github.com/muhiqsimui/muhiqsimui/raw/main/assets/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SWS-5007&theme=dark&hide_border=true" alt="muhiqsimui"/>
     <img height="120" width="140" src="https://github.com/muhiqsimui/muhiqsimui/raw/main/assets/right.png">
   </a>
 </p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SWS-5007&row=2&column=8&margin-w=15&margin-h=15&theme=dracula&no-bg=true&no-frame=true" alt="SWS-5007" /></a></p>
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=SWS-5007&theme=cobalt&show_icons=true)](https://github.com/AshleySato899)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SWS-5007&hide=TeX&layout=compact&theme=cobalt)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=SWS-5007&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SWS-5007&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
+</p>
+
+<br />
 
 > GitHub 3D Contributors
 
