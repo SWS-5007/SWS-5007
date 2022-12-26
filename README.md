@@ -2,6 +2,16 @@
   <a href="https://github.com/SWS-5007"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Blockchain%20Developer;Web%20and%20Mobile%20Master;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech!&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
+###
+
+<img align="right" alt="GIF" src="https://github.com/v08nike/v08nike/blob/main/code.gif?raw=true" width="400" height="220" />
+
+Motivated and accomplished Full Stack Developer with multifaceted experience and expertise in multiple software applications. 
+A consummate professional with comprehensive business and technical acumen, proven experience with regulatory compliance, and effective communication prowess. 
+Innate ability to motivate and gain trust with diverse teams in complex situations and challenging environments. 
+Collaborative Team Building | Team Development | Process Improvement | Communication Skills | Strategic Vision | Critical Thinking | Creative Problem Solving | Scalability
+
+
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
 > Programming languages.
