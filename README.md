@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/atosinu"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Web%20and%20mobile%20master;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/SWS-5007"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Web%20and%20mobile%20master;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
@@ -109,8 +109,8 @@
 > GitHub Profile Status
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=atosinu&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atosinu&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
+    <img src="https://github-readme-stats.vercel.app/api?username=SWS-5007&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SWS-5007&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
 </p>
 
 <br />
