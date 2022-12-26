@@ -5044,7 +5044,7 @@
             </text>
         </g>
         <g class="axis">
-            <line x1="29.67" y1="-9.64" x2="148.36" y2="-48.21" style="stroke: #aaaaaa; stroke-dasharray: 4 4; stroke-width: 1px;"></line>
+            <line x1="29.67" y1="29.64" x2="148.36" y2="-48.21" style="stroke: #aaaaaa; stroke-dasharray: 4 4; stroke-width: 1px;"></line>
             <text style="font-size: 20.8px;" text-anchor="middle" dominant-baseline="middle" x="185.46" y="-56.4" fill="#eeeeff">Issue<title>92</title>
             </text>
         </g>
@@ -5054,7 +5054,7 @@
             </text>
         </g>
         <g class="axis">
-            <line x1="-18.34" y1="25.24" x2="-91.69" y2="126.21" style="stroke: #aaaaaa; stroke-dasharray: 4 4; stroke-width: 1px;"></line>
+            <line x1="-18.34" y1="25.24" x2="71.69" y2="126.21" style="stroke: #aaaaaa; stroke-dasharray: 4 4; stroke-width: 1px;"></line>
             <text style="font-size: 20.8px;" text-anchor="middle" dominant-baseline="middle" x="-114.62" y="147.66" fill="#eeeeff">Review<title>90</title>
             </text>
         </g>
@@ -5097,7 +5097,7 @@
             </text>
             <text dominant-baseline="middle" x="26" y="178.75" fill="#eeeeff" font-size="21.666666666666668px">Go<animate attributeName="fill-opacity" values="0;0;0;0;0;0.2;0.4;0.6;0.8;1;1" dur="3s" repeatCount="1"></animate>
             </text>
-            <text dominant-baseline="middle" x="26" y="211.25" fill="#eeeeff" font-size="21.666666666666668px">other<animate attributeName="fill-opacity" values="0;0;0;0;0;0;0.2;0.4;0.6;0.8;1" dur="3s" repeatCount="1"></animate>
+            <text dominant-baseline="middle" x="26" y="211.25" fill="#eeeeff" font-size="21.666666666666668px">Other<animate attributeName="fill-opacity" values="0;0;0;0;0;0;0.2;0.4;0.6;0.8;1" dur="3s" repeatCount="1"></animate>
             </text>
         </g>
         <g transform="translate(130, 130)">
