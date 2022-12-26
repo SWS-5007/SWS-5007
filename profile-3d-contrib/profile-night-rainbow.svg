@@ -5045,17 +5045,17 @@
         </g>
         <g class="axis">
             <line x1="29.67" y1="-9.64" x2="148.36" y2="-48.21" style="stroke: #aaaaaa; stroke-dasharray: 4 4; stroke-width: 1px;"></line>
-            <text style="font-size: 20.8px;" text-anchor="middle" dominant-baseline="middle" x="185.46" y="-56.4" fill="#eeeeff">Issue<title>2</title>
+            <text style="font-size: 20.8px;" text-anchor="middle" dominant-baseline="middle" x="185.46" y="-56.4" fill="#eeeeff">Issue<title>92</title>
             </text>
         </g>
         <g class="axis">
             <line x1="18.34" y1="25.24" x2="91.69" y2="126.21" style="stroke: #aaaaaa; stroke-dasharray: 4 4; stroke-width: 1px;"></line>
-            <text style="font-size: 20.8px;" text-anchor="middle" dominant-baseline="middle" x="114.62" y="147.66" fill="#eeeeff">PullReq<title>95</title>
+            <text style="font-size: 20.8px;" text-anchor="middle" dominant-baseline="middle" x="114.62" y="147.66" fill="#eeeeff">Pull Request<title>195</title>
             </text>
         </g>
         <g class="axis">
             <line x1="-18.34" y1="25.24" x2="-91.69" y2="126.21" style="stroke: #aaaaaa; stroke-dasharray: 4 4; stroke-width: 1px;"></line>
-            <text style="font-size: 20.8px;" text-anchor="middle" dominant-baseline="middle" x="-114.62" y="147.66" fill="#eeeeff">Review<title>0</title>
+            <text style="font-size: 20.8px;" text-anchor="middle" dominant-baseline="middle" x="-114.62" y="147.66" fill="#eeeeff">Review<title>90</title>
             </text>
         </g>
         <g class="axis">
@@ -5091,30 +5091,18 @@
             </text>
             <text dominant-baseline="middle" x="26" y="81.25" fill="#eeeeff" font-size="21.666666666666668px">JavaScript<animate attributeName="fill-opacity" values="0;0;0.2;0.4;0.6;0.8;1;1;1;1;1" dur="3s" repeatCount="1"></animate>
             </text>
-            <text dominant-baseline="middle" x="26" y="113.75" fill="#eeeeff" font-size="21.666666666666668px">PHP<animate attributeName="fill-opacity" values="0;0;0;0.2;0.4;0.6;0.8;1;1;1;1" dur="3s" repeatCount="1"></animate>
+            <text dominant-baseline="middle" x="26" y="113.75" fill="#eeeeff" font-size="21.666666666666668px">Solidity<animate attributeName="fill-opacity" values="0;0;0;0.2;0.4;0.6;0.8;1;1;1;1" dur="3s" repeatCount="1"></animate>
             </text>
-            <text dominant-baseline="middle" x="26" y="146.25" fill="#eeeeff" font-size="21.666666666666668px">HTML<animate attributeName="fill-opacity" values="0;0;0;0.2;0.4;0.6;0.8;1;1;1;1" dur="3s" repeatCount="1"></animate>
+            <text dominant-baseline="middle" x="26" y="146.25" fill="#eeeeff" font-size="21.666666666666668px">CSS<animate attributeName="fill-opacity" values="0;0;0;0;0.2;0.4;0.6;0.8;1;1;1" dur="3s" repeatCount="1"></animate>
             </text>
-            <text dominant-baseline="middle" x="26" y="178.75" fill="#eeeeff" font-size="21.666666666666668px">React<animate attributeName="fill-opacity" values="0;0;0;0.2;0.4;0.6;0.8;1;1;1;1" dur="3s" repeatCount="1"></animate>
+            <text dominant-baseline="middle" x="26" y="178.75" fill="#eeeeff" font-size="21.666666666666668px">Go<animate attributeName="fill-opacity" values="0;0;0;0;0;0.2;0.4;0.6;0.8;1;1" dur="3s" repeatCount="1"></animate>
             </text>
-            <text dominant-baseline="middle" x="26" y="211.25" fill="#eeeeff" font-size="21.666666666666668px">Node<animate attributeName="fill-opacity" values="0;0;0;0.2;0.4;0.6;0.8;1;1;1;1" dur="3s" repeatCount="1"></animate>
-            </text>
-            <text dominant-baseline="middle" x="26" y="243.75" fill="#eeeeff" font-size="21.666666666666668px">Vue<animate attributeName="fill-opacity" values="0;0;0;0.2;0.4;0.6;0.8;1;1;1;1" dur="3s" repeatCount="1"></animate>
-            </text>
-            <text dominant-baseline="middle" x="26" y="276.25" fill="#eeeeff" font-size="21.666666666666668px">Solidity<animate attributeName="fill-opacity" values="0;0;0;0.2;0.4;0.6;0.8;1;1;1;1" dur="3s" repeatCount="1"></animate>
-            </text>
-            <text dominant-baseline="middle" x="26" y="308.75" fill="#eeeeff" font-size="21.666666666666668px">Rust<animate attributeName="fill-opacity" values="0;0;0;0.2;0.4;0.6;0.8;1;1;1;1" dur="3s" repeatCount="1"></animate>
-            </text>
-            <text dominant-baseline="middle" x="26" y="341.25" fill="#eeeeff" font-size="21.666666666666668px">CSS<animate attributeName="fill-opacity" values="0;0;0;0;0.2;0.4;0.6;0.8;1;1;1" dur="3s" repeatCount="1"></animate>
-            </text>
-            <text dominant-baseline="middle" x="26" y="373.75" fill="#eeeeff" font-size="21.666666666666668px">Go<animate attributeName="fill-opacity" values="0;0;0;0;0;0.2;0.4;0.6;0.8;1;1" dur="3s" repeatCount="1"></animate>
-            </text>
-            <text dominant-baseline="middle" x="26" y="406.25" fill="#eeeeff" font-size="21.666666666666668px">other<animate attributeName="fill-opacity" values="0;0;0;0;0;0;0.2;0.4;0.6;0.8;1" dur="3s" repeatCount="1"></animate>
+            <text dominant-baseline="middle" x="26" y="211.25" fill="#eeeeff" font-size="21.666666666666668px">other<animate attributeName="fill-opacity" values="0;0;0;0;0;0;0.2;0.4;0.6;0.8;1" dur="3s" repeatCount="1"></animate>
             </text>
         </g>
         <g transform="translate(130, 130)">
             <path d="M7.164183775012016e-15,-117A117,117,0,1,1,-33.21809429102356,112.18537432157842L-18.454496828346425,62.32520795643246A65,65,0,1,0,3.980102097228898e-15,-65Z" style="fill: #3178c6;" stroke="#00000f" stroke-width="2px">
-                <title>TypeScript 1</title>
+                <title>TypeScript 1096</title>
                 <animate attributeName="fill-opacity" values="0;0.2;0.4;0.6;0.8;1;1;1;1;1;1" dur="3s" repeatCount="1"></animate>
             </path>
             <path d="M-33.21809429102356,112.18537432157842A117,117,0,0,1,-116.64219473924024,9.143216415089057L-64.80121929957791,5.079564675049476A65,65,0,0,0,-18.454496828346425,62.32520795643246Z" style="fill: #f1e05a;" stroke="#00000f" stroke-width="2px">
@@ -5141,7 +5129,7 @@
     </g>
     <g>
         <text style="font-size: 32px; font-weight: bold;" x="384" y="830" text-anchor="end" fill="rgb(255,200,55)">3237</text>
-        <text style="font-size: 24px;" x="394" y="830" text-anchor="start" fill="#eeeeff">contributions</text>
+        <text style="font-size: 24px;" x="394" y="830" text-anchor="start" fill="#eeeeff">Contributions</text>
         <g transform="translate(608, 802), scale(2)">
             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z" fill="#eeeeff"></path>
         </g>
