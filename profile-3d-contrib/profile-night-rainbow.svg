@@ -5122,7 +5122,7 @@
                 <animate attributeName="fill-opacity" values="0;0;0;0;0;0.2;0.4;0.6;0.8;1;1" dur="3s" repeatCount="1"></animate>
             </path>
             <path d="M-112.39106003750977,-32.51537518843777A117,117,0,0,1,-1.2540942642995068e-13,-117L-6.967190357219483e-14,-65A65,65,0,0,0,-62.439477798616544,-18.064097326909874Z" style="fill: #444444;" stroke="#00000f" stroke-width="2px">
-                <title>other 412</title>
+                <title>Other 412</title>
                 <animate attributeName="fill-opacity" values="0;0;0;0;0;0;0.2;0.4;0.6;0.8;1" dur="3s" repeatCount="1"></animate>
             </path>
         </g>
