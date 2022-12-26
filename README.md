@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/atosinu"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Web%20and%20mobile%20master;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/SWS-5007"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Web%20and%20mobile%20master;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
@@ -102,14 +102,6 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-<h2 align="left" id="macropower-tech">Github Metrics</h2>
-
-<br />
-
-<p align="center">
-    <img alt="metrics" title="Github Metrics" src="https://github.com/atosinu/atosinu/blob/main/github-metrics.svg" width="100%" />
-</p>
-
 <h2 align="left" id="macropower-tech">Github Status</h2>
 
 <br />
@@ -117,16 +109,9 @@
 > GitHub Profile Status
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=atosinu&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atosinu&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
+    <img src="https://github-readme-stats.vercel.app/api?username=SWS-5007&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SWS-5007&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
 </p>
-
-<br />
-
-> GitHub Activity Graph
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/atosinu/atosinu"><img alt="atosinu's activity graph" src="https://activity-graph.herokuapp.com/graph?username=atosinu&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 
 <br />
 
@@ -137,10 +122,10 @@
 <br />
 
 <p align="right">
-  <a href="https://github.com/atosinu?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/atosinu"/></a>
-  <a href="https://github.com/atosinu?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/atosinu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/atosinu">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=atosinu&style=for-the-badge"/></a>
+  <a href="https://github.com/SWS-5007?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/SWS-5007"/></a>
+  <a href="https://github.com/SWS-5007?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/SWS-5007?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/SWS-5007">
+    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=SWS-5007&style=for-the-badge"/></a>
 </p>
