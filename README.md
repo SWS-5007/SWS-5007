@@ -117,7 +117,7 @@
 
 > GitHub 3D Contributors
 
-![](./profile-3d-contrib/profile-gitblock)
+![](./profile-3d-contrib/profile-season-animate)
 
 <br />
 
