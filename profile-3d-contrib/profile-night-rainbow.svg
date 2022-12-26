@@ -5044,8 +5044,8 @@
             </text>
         </g>
         <g class="axis">
-            <line x1="29.67" y1="29.64" x2="148.36" y2="-48.21" style="stroke: #aaaaaa; stroke-dasharray: 4 4; stroke-width: 1px;"></line>
-            <text style="font-size: 20.8px;" text-anchor="middle" dominant-baseline="middle" x="185.46" y="-56.4" fill="#eeeeff">Issue<title>92</title>
+            <line x1="29.67" y1="-9.64" x2="148.36" y2="-48.21" style="stroke: #aaaaaa; stroke-dasharray: 4 4; stroke-width: 1px;"></line>
+            <text style="font-size: 20.8px;" text-anchor="middle" dominant-baseline="middle" x="185.46" y="-156.4" fill="#eeeeff">Issue<title>92</title>
             </text>
         </g>
         <g class="axis">
@@ -5054,7 +5054,7 @@
             </text>
         </g>
         <g class="axis">
-            <line x1="-18.34" y1="25.24" x2="71.69" y2="126.21" style="stroke: #aaaaaa; stroke-dasharray: 4 4; stroke-width: 1px;"></line>
+            <line x1="-18.34" y1="25.24" x2="-91.69" y2="126.21" style="stroke: #aaaaaa; stroke-dasharray: 4 4; stroke-width: 1px;"></line>
             <text style="font-size: 20.8px;" text-anchor="middle" dominant-baseline="middle" x="-114.62" y="147.66" fill="#eeeeff">Review<title>90</title>
             </text>
         </g>
