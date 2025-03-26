@@ -1,10 +1,8 @@
 <p align="center">
-  <a href="https://github.com/SWS-5007"><img src="https://readme-typing-svg.herokuapp.com/?lines=Super%20Web%20Star;Senior%20Blockchain%20Developer;Web%20and%20Mobile%20Master;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech!&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/SWS-5007"><img src="https://readme-typing-svg.herokuapp.com/?lines=Super%20Web%20Star;Senior%20Blockchain%20Developer;Web%20and%20Mobile%20Developer;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech!&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 ###
-
-<a href="https://app.daily.dev/SWS-5007"><img align="left" src="https://github.com/SWS-5007/SWS-5007/blob/main/devcard.svg" width="400" height="600" alt="Harry Potter's Dev Card"/></a>
 
 Motivated and accomplished Full Stack Developer with multifaceted experience and expertise in multiple software applications. 
 A consummate professional with comprehensive business and technical acumen, proven experience with regulatory compliance, and effective communication prowess. 
@@ -78,21 +76,4 @@ Collaborative Team Building | Team Development | Process Improvement | Communica
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=SWS-5007&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SWS-5007&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
-</p>
-
-<br />
-
-> GitHub 3D Contributors
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-<br />
-
-<p align="right">
-  <a href="https://github.com/SWS-5007?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/SWS-5007"/></a>
-  <a href="https://github.com/SWS-5007?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/SWS-5007?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/SWS-5007">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=SWS-5007&style=for-the-badge"/></a>
 </p>
